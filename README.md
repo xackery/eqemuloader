@@ -1,2 +1,3 @@
-# eqemuloader
-Loader for EQEMU
+# loader
+
+EQEMU loader system
