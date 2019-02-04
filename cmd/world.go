@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"os"
 
-	"git.rebuildeq.com/eq/loader/script"
 	"github.com/spf13/cobra"
+	"github.com/xackery/eqemuloader/script"
 )
 
 // worldCmd represents the world command
